@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 9ac13940-5ea3-cd87-d323-c79059462913
 ---
@@ -53,7 +56,7 @@ The Solow Growth Model and the Data
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 ### Required Readings
@@ -122,7 +125,7 @@ The Neoclassical Growth Model
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 ### Required Readings
@@ -171,7 +174,7 @@ L7-L8
 {{< tdopen >}}
 Growth with Overlapping Generations
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 ### Required Readings
@@ -250,7 +253,7 @@ First-Generation Models of Endogenous Growth
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 ### Required Readings
@@ -319,7 +322,7 @@ Directed Technological Change
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 ### Required Readings

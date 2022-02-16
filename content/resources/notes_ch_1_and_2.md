@@ -10,8 +10,13 @@ description: 'This resource contains lecture notes providing an Introduction to 
   General Equilibrium, Shocks and Policies, Continuous Time, Long-Run Growth, Convergence,
   Cross-Country Differences: Mankiw-Romer Weil, Conditional Convergence: ?Barro? regressions,
   The Golden Rule, and Poverty Traps, Cycles, Endogenous Growth, etc.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-451-macroeconomic-theory-i-spring-2007/be570008819f559d474af381a50c773b_notes_ch_1_and_2.pdf
+file: /media/courses/14-451-macroeconomic-theory-i-spring-2007/be570008819f559d474af381a50c773b_notes_ch_1_and_2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: notes_ch_1_and_2.pdf
 uid: be570008-819f-559d-474a-f381a50c773b
