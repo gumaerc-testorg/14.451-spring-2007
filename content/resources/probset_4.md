@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e49890ec-434e-cf38-6a2f-428f76e3c028
 resourcetype: Document
 title: probset_4.pdf
 uid: f20a3288-2b1d-7118-93bc-07a29da2f498

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 9ac13940-5ea3-cd87-d323-c79059462913
 resourcetype: Document
 title: handout1.pdf
 uid: 1b0dce2d-a372-9ef5-963e-6f953f6929f0
