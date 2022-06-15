@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides information about required texts for the course
+  and lists required and recommended readings for the lecture sessions.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 9ac13940-5ea3-cd87-d323-c79059462913
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Required Texts
@@ -65,7 +71,7 @@ Acemoglu, D. _Introduction to Modern Economic Growth_, 2007, chapters 1-3.
 
 Barro, R. J., and X. Sala-i-Martin. _Economic Growth_, 1995, chapters 1 and 12.
 
-[Lecture notes, chapters 1-2]({{< baseurl >}}/pages/lecture-notes).
+{{% resource_link e27f3328-da61-ee16-dd4a-53665eb2fd00 "Lecture notes, chapters 1-2" %}}.
 
 ### Recommended Readings
 
@@ -96,7 +102,7 @@ R1
 {{< tdopen >}}
 
 
-Empirics of Economic Growth ([PDF]({{< baseurl >}}/resources/handout1)) (Courtesy of Suman Basu. Used with permission.)
+Empirics of Economic Growth ({{% resource_link 1b0dce2d-a372-9ef5-963e-6f953f6929f0 "PDF" %}}) (Courtesy of Suman Basu. Used with permission.)
 
 
 {{< tdclose >}}
@@ -134,7 +140,7 @@ Acemoglu, D. _Introduction to Modern Economic Growth_, 2007, chapters 5-8.
 
 Barro, R. J., and X. Sala-i-Martin. _Economic Growth_, 1995, chapters 2-3.
 
-[Lecture notes, chapter 3]({{< baseurl >}}/pages/lecture-notes).
+{{% resource_link e27f3328-da61-ee16-dd4a-53665eb2fd00 "Lecture notes, chapter 3" %}}.
 
 ### Recommended Readings
 
@@ -191,7 +197,7 @@ Barro, R. J. "Are Government Bonds Net Wealth?" _Journal of Political Economy_ 8
 
 Blanchard, O. "Debt, Deficits and Finite Horizons." _Journal of Political Economy_ 93 (1985): 223-247.
 
-[Lecture notes, chapter 4]({{< baseurl >}}/pages/lecture-notes).
+{{% resource_link e27f3328-da61-ee16-dd4a-53665eb2fd00 "Lecture notes, chapter 4" %}}.
 
 ### Recommended Readings
 
@@ -262,7 +268,7 @@ Acemoglu, D. _Introduction to Modern Economic Growth_, 2007, chapters 10-11.
 
 Barro, R. J., and X. Sala-i-Martin. _Economic Growth_, 1995, chapters 4-5.
 
-[Lecture notes, chapter 6]({{< baseurl >}}/pages/lecture-notes).
+{{% resource_link e27f3328-da61-ee16-dd4a-53665eb2fd00 "Lecture notes, chapter 6" %}}.
 
 ### Recommended Readings
 
@@ -295,7 +301,7 @@ R4
 {{< tdopen >}}
 
 
-Optimization Methods ([PDF]({{< baseurl >}}/resources/handout2)) (Courtesy of Suman Basu. Used with permission.)
+Optimization Methods ({{% resource_link 50a18429-acfe-01de-77f7-493efac6572f "PDF" %}}) (Courtesy of Suman Basu. Used with permission.)
 
 
 {{< tdclose >}}
@@ -335,7 +341,7 @@ Barro, R. J., and X. Sala-i-Martin. _Economic Growth_, 1995, chapters 6-7.
 
 Romer, P. M. "Endogenous Technological Change." _Journal of Political Economy_ 98 (1990): 71-102.
 
-[Lecture notes, chapter 7]({{< baseurl >}}/pages/lecture-notes).
+{{% resource_link e27f3328-da61-ee16-dd4a-53665eb2fd00 "Lecture notes, chapter 7" %}}.
 
 ### Recommended Readings
 
@@ -362,7 +368,7 @@ Parente, S. L., and E. C. Prescott. "Barriers to Technology Adoption and Develop
 R5
 {{< tdclose >}}
 {{< tdopen >}}
-Expanding Variety Models ([PDF]({{< baseurl >}}/resources/handout3)) (Courtesy of Suman Basu. Used with permission.)
+Expanding Variety Models ({{% resource_link ebd96e64-38c2-8b9c-c96b-49016bba23d1 "PDF" %}}) (Courtesy of Suman Basu. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
