@@ -6,6 +6,7 @@ file: /courses/14-451-macroeconomic-theory-i-spring-2007/50a18429acfe01de77f7493
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains a reading on Optimization Methods. (Courtesy of Suman Basu. Used with permission.)
-

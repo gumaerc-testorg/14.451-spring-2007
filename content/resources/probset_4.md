@@ -5,6 +5,7 @@ file: /courses/14-451-macroeconomic-theory-i-spring-2007/f20a32882b1d711893bc07a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains Problem Set 4.
-

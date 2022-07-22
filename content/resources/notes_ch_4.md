@@ -8,6 +8,7 @@ file: /courses/14-451-macroeconomic-theory-i-spring-2007/a6d8ac78c43c4e5e0d70b91
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains lecture notes on Using the NGM Beyond Growth: Asset Pricing, Public Finance, Overlapping Generations. Topics include: Applications/Variations, Consumption Smoothing, Arrow-Debreu Markets, Aggregation and the Representative Consumer, Fiscal Policy, and Asset Pricing and CCAPM.
-

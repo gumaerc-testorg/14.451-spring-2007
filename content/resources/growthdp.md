@@ -5,6 +5,7 @@ file: /courses/14-451-macroeconomic-theory-i-spring-2007/9a790193693e054f06bff20
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains a MATLAB file for use with the course.
-

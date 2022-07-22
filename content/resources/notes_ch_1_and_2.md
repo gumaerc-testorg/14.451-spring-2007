@@ -14,6 +14,7 @@ file: /courses/14-451-macroeconomic-theory-i-spring-2007/be570008819f559d474af38
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -27,4 +28,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains lecture notes providing an Introduction to Growth Models and Growth Facts. Topics include: the World Distribution of Income Levels and Growth Rates, Unconditional versus Conditional Convergence, The Solow Growth Model, Centralized Dictatorial Allocations, Technology and Production, The Resource Constraint and the Law of Motions for Capital and Labor (Population), The Dynamics of Capital and Consumption, Feasible and ?Optimal? Allocations, The Policy Rule, Steady State, Transitional Dynamics, Decentralized Market Allocations, Market Clearing, General Equilibrium, Shocks and Policies, Continuous Time, Long-Run Growth, Convergence, Cross-Country Differences: Mankiw-Romer Weil, Conditional Convergence: ?Barro? regressions, The Golden Rule, and Poverty Traps, Cycles, Endogenous Growth, etc.
-
