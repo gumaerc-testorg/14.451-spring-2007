@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains Problem Set 5.
 file: /courses/14-451-macroeconomic-theory-i-spring-2007/762d4797ed1c38f78dc950da32fb5795_probset_5.pdf
+file_size: 49158
 file_type: application/pdf
 learning_resource_types:
 - Assignments

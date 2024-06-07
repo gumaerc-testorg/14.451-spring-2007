@@ -5,6 +5,7 @@ description: 'This resource contains lecture notes on Endogenous Growth I: AK, S
   Model, A Simple Model of Human Capital, Learning by Education (Ozawa & Lucas), and
   Learning by Doing and Spillovers (Arrow & Romer).'
 file: /courses/14-451-macroeconomic-theory-i-spring-2007/5887cbc233785a5845e931c9289cc18e_notes_ch_6.pdf
+file_size: 228548
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
