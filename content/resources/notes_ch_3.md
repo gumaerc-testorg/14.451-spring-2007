@@ -10,6 +10,7 @@ description: 'This resource contains lecture notes on The Neoclassical Growth Mo
   The Phase Diagram with Endogenous Labor Supply, Impulse Responses Revisited, and
   The RBC Propagation Mechanism, and Beyond.'
 file: /courses/14-451-macroeconomic-theory-i-spring-2007/932ed19db30627243329d42cea5c602c_notes_ch_3.pdf
+file_size: 618863
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

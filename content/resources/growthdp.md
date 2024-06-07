@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains a MATLAB file for use with the course.
 file: /courses/14-451-macroeconomic-theory-i-spring-2007/9a790193693e054f06bff20d3be42f5e_growthdp.m
+file_size: 5186
 file_type: text/plain
 learning_resource_types:
 - Tools
