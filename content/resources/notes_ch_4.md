@@ -5,6 +5,7 @@ description: 'This resource contains lecture notes on Using the NGM Beyond Growt
   Consumption Smoothing, Arrow-Debreu Markets, Aggregation and the Representative
   Consumer, Fiscal Policy, and Asset Pricing and CCAPM.'
 file: /courses/14-451-macroeconomic-theory-i-spring-2007/a6d8ac78c43c4e5e0d70b91ff959bc44_notes_ch_4.pdf
+file_size: 248612
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
