@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/14-451-macroeconomic-theory-i-spring-2007/a070018563bb2888e60341038c53c8f1_figures_ch_3.pdf
+file: /ol-ocw-studio-app/courses/14-451-macroeconomic-theory-i-spring-2007/a070018563bb2888e60341038c53c8f1_figures_ch_3.pdf
 file_size: 107059
 file_type: application/pdf
 learning_resource_types:

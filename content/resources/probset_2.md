@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains Problem Set 2.
-file: /courses/14-451-macroeconomic-theory-i-spring-2007/4f6100bb8e3c32806fd67e6edfc8712e_probset_2.pdf
+file: /ol-ocw-studio-app/courses/14-451-macroeconomic-theory-i-spring-2007/4f6100bb8e3c32806fd67e6edfc8712e_probset_2.pdf
 file_size: 62065
 file_type: application/pdf
 learning_resource_types:
