@@ -4,7 +4,7 @@ description: 'This resource contains lecture notes on Endogenous Growth II: R&D,
   vs. Quality, Directed Technological Change. Topics include: Expanding Product Variety:
   The Romer Model, A Simple Variant of Aghion-Howitt, Ramsey Meets Schumpeter: The
   Aghion-Howitt Model, and Romer Meets Acemoglu: Biased Technological Change.'
-file: /ol-ocw-studio-app/courses/14-451-macroeconomic-theory-i-spring-2007/40c77100dc907055dbda9d709d584f83_notes_ch_7.pdf
+file: /courses/14-451-macroeconomic-theory-i-spring-2007/40c77100dc907055dbda9d709d584f83_notes_ch_7.pdf
 file_size: 298891
 file_type: application/pdf
 learning_resource_types:

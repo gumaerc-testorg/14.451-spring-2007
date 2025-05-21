@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a MATLAB file for use with the course.
-file: /ol-ocw-studio-app/courses/14-451-macroeconomic-theory-i-spring-2007/706f722b9771e43bff2221042f08c86e_u.m
+file: /courses/14-451-macroeconomic-theory-i-spring-2007/706f722b9771e43bff2221042f08c86e_u.m
 file_size: 172
 file_type: text/plain
 learning_resource_types:
