@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides the Midterm exam from Spring 2005 as a practice
   exam.
-file: /ol-ocw-studio-app/courses/14-451-macroeconomic-theory-i-spring-2007/e3d6142d422c0e853c710d612bcdc382_midterm_s2005.pdf
+file: /courses/14-451-macroeconomic-theory-i-spring-2007/e3d6142d422c0e853c710d612bcdc382_midterm_s2005.pdf
 file_size: 68438
 file_type: application/pdf
 learning_resource_types:
