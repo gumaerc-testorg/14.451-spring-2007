@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a reading on Optimization Methods. (Courtesy of
   Suman Basu. Used with permission.)
-file: /ol-ocw-studio-app/courses/14-451-macroeconomic-theory-i-spring-2007/50a18429acfe01de77f7493efac6572f_handout2.pdf
+file: /courses/14-451-macroeconomic-theory-i-spring-2007/50a18429acfe01de77f7493efac6572f_handout2.pdf
 file_size: 99777
 file_type: application/pdf
 learning_resource_types:
